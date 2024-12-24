@@ -338,14 +338,5 @@
       "gzip": true
     }
   ],
-  "title": "Ant Design",
-  "tnpm": {
-    "mode": "npm"
-  },
-  "overrides": {
-    "nwsapi": "2.2.16"
-  },
-  "resolutions": {
-    "nwsapi": "2.2.16"
-  }
+  "title": "Ant Design"
 }
